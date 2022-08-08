@@ -9,8 +9,8 @@ const LandingPage = (props) => {
   return (
     <div className="landing-page-container">
       <Helmet>
-        <title>Travel Agency</title>
-        <meta property="og:title" content="Travel Agency" />
+        <title>Serveur DD</title>
+        <meta property="og:title" content="Serveur DD" />
       </Helmet>
       <div className="landing-page-top-container">
         <div className="landing-page-hero">
