@@ -1,0 +1,4 @@
+.rubriques-container {
+  display: flex;
+  position: relative;
+}
